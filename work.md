@@ -13,5 +13,5 @@ title: Buy My Work
 
 **Television Snow Day** was written mainly in college. A snow day is when you get to stay home and rest; a television snow day is the same thing for the mind, quiet space in between the noise. Published 2016.
 
-###Book 3 - Coming Soon
+### Book 3 - Coming Soon
 
