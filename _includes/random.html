@@ -1,0 +1,22 @@
+{% assign counter_rand = 0 %}
+{% assign array_urls = "" %}
+
+{% for post in site.posts %}
+{% unless post.url == page.url %}
+{% assign counter_rand = counter_rand | plus: 1 %}
+{% assign array_urls = array_urls | append: post.url %}
+{% assign array_urls = array_urls | append: "," %}
+{% endunless %}
+{% endfor %}
+
+{% assign array_urls = array_urls | split: "," %}
+{% assign array_urls = array_urls | append: ""]" %}
+{% assign array_urls = array_urls | join: '", "' %}
+
+<script>
+ var myArray = {{ array_urls }};
+ var randnum = Math.floor(Math.random()
+  * {{ counter_rand }}) + 0;
+ var linkToPost = myArray[randnum]
+ document.getElementById("randoLink").href = linkToPost
+</script>
