@@ -8,11 +8,11 @@ permalink: none
 # Setup
 title: Codedna.me
 description: It is God’s privilege to conceal things and [our] privilege to discover them. -Proverbs 25:2
-url: http://www.codedna.me
+url: http://codedna.me/
 baseurl: /
 
-#author:
-#  name: 'Joel Dettweiler'
-#  url: 
+author:
+  name: 'Joel Dettweiler'
+  email: 'dettonator11@gmail.com' 
 
 paginate: 5
