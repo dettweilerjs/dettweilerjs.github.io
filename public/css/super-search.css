@@ -40,13 +40,12 @@ MIT Licensed
 .super-search__input {
 	font-family: "Fira-Mono";
 	position: relative;
-	margin-top: 23px;
+	margin-top: 1.22em;
 	margin-bottom: 0px;
 	border: 0;
 	font-size: 20px;
 	border-left: none;
 	border-right: none;
-	border-top: 20em;
 	color: #999;
 	width: 100%;
 	padding: 10px 31px;
@@ -62,7 +61,7 @@ MIT Licensed
 	list-style: none;
 	padding: 0;
 	overflow-x: hidden;
-	height: calc(100% - 110px);
+	height: 100%;
 	transition: 0.2s ease;
 }
 .super-search__results.is-hidden {
