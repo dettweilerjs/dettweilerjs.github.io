@@ -26,7 +26,7 @@ layout: null
 			<itunes:name>{{ site.podcast.author }}</itunes:name>
 			<itunes:email>{{ site.podcast.email }}</itunes:email>
 		</itunes:owner>
-		<itunes:image href="https://s3.amazonaws.com/evenodder/covers/cover.png" />
+		<itunes:image href="https://s3.amazonaws.com/evenodder/covers/itunes-cover.png" />
 		<itunes:category text="Society &amp; Culture" />
 		<itunes:explicit>no</itunes:explicit>
 		{% for post in site.categories.podcasts %}
