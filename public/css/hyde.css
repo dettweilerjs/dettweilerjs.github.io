@@ -186,6 +186,14 @@ a.sidebar-nav-item:focus {
 }
 
 
+/*
+ * Podcast styling
+ *
+ */
+
+audio{
+  width: 100%;
+}
 
 /*
  * Themes
@@ -266,4 +274,13 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Podcast Purple */
+.podcast-theme .sidebar {
+  background-color: #513dcb;
+}
+.podcast-theme .content a,
+.podcast-theme .related-posts li a:hover {
+  color: #513dcb;
 }

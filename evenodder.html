@@ -1,0 +1,39 @@
+---
+layout: podcast
+title: Even Odder
+---
+
+<div class="posts">
+  {% for post in site.categories.podcasts limit:1 %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
+        Episode {{post.epnum}}: {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">
+      {{ post.podname }} - 
+      {{ post.date | date_to_string }}
+    </span>
+
+    {{ post.content }}
+
+  </div>
+  {% endfor %}
+  {% for post in site.categories.podcasts offset:1 %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">
+        Episode {{post.epnum}}: {{ post.title }}
+      </a>
+    </h2>
+
+    <span class="post-date">
+      {{ post.podname }} - 
+      {{ post.date | date_to_string }}
+    </span>
+
+  </div>
+  {% endfor %}
+</div>

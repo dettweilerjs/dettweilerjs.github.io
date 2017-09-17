@@ -8,11 +8,23 @@ permalink: none
 # Setup
 title: Codedna.me
 description: It is God’s privilege to conceal things and [our] privilege to discover them. -Proverbs 25:2
-url: http://codedna.me/
+url: http://www.codedna.me/
 baseurl: /
+future: false
+lang: en-US
 
 author:
-  name: 'Joel Dettweiler'
-  email: 'dettonator11@gmail.com' 
+  name: Joel Dettweiler
+  email: dettonator11@gmail.com 
 
 paginate: 5
+
+# Podcast Settings
+
+podcast:
+  title: Even Odder
+  author: Joel and Micah Dettweiler
+  description: Prime examples of the factors that make life extraordinary. Also, not a math podcast.
+  url: http://www.codedna.me/evenodder.html
+  email: evenpodder@gmail.com
+  keywords: brothers, discussion, games, life
