@@ -171,6 +171,7 @@ a.sidebar-nav-item:focus {
   .layout-reverse .sidebar {
     left: auto;
     right: 0;
+    overflow-y: auto;
   }
   .layout-reverse .content {
     margin-left: 2rem;
