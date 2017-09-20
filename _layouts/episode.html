@@ -8,6 +8,19 @@ layout: podcast
   {{ content }}
 </div>
 
+<div class="pagination">
+  {% if page.former %}
+    <a class="pagination-item older" href="{{ page.former }}">Previous</a>
+  {% else %}
+    <span class="pagination-item older">Previous</span>
+  {% endif %}
+  {% if page.latter %}
+    <a class="pagination-item newer" href="{{ page.latter }}">Next</a>
+  {% else %}
+    <span class="pagination-item newer">Next</span>
+  {% endif %}
+</div>
+
 {% if page.comments != false %}
   <div id="disqus_thread"></div>
   <script>

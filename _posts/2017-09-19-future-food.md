@@ -1,6 +1,8 @@
 ---
 layout: episode
 epnum: "003"
+former: 2-mil-pogchamp.html
+latter:
 title: "Future Food"
 date: 2017-09-19
 excerpt: "Joel and Micah discuss the future in the form of 3D printed food, Mad Max, and the singularity (with special sauce)"
@@ -20,7 +22,7 @@ Your browser does not support the audio element.
 
 {{ page.excerpt }}  
 ### <a href="https://s3.amazonaws.com/evenodder/audio/ep{{ page.epnum }}.mp3" download>Download this episode</a>  
-iTunes (coming soon)  
+[iTunes](https://itunes.apple.com/us/podcast/future-food/id1286571587?i=1000392468963&mt=2)  
 [RSS]({{ site.url }}/podcast.rss)  
 
 ### Show notes  

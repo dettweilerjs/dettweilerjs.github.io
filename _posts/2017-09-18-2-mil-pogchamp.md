@@ -1,6 +1,8 @@
 ---
 layout: episode
 epnum: "002"
+former: me-me-meme.html
+latter: future-food.html
 title: "2 Mil! Pogchamp"
 date: 2017-09-18
 excerpt: "Joel and Micah disagree on what constitutes an ideal Twitch Chat, and Joel gives Micah some bad advice regarding car insurance."
