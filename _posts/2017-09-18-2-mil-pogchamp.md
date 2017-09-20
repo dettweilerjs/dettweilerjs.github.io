@@ -20,7 +20,7 @@ Your browser does not support the audio element
 
 Joel and Micah disagree on what constitutes an ideal Twitch Chat, and Joel gives Micah some bad advice regarding car insurance.    
 ### <a href="/public/podcast/ep002.mp3" download>Download this episode</a>  
-iTunes (coming soon)  
+[iTunes](https://itunes.apple.com/us/podcast/2-mil-pogchamp/id1286571587?i=1000392463551&mt=2)  
 [RSS]({{ site.url }}/podcast.rss)  
 
 ### Show notes  
