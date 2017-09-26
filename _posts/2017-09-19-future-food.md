@@ -2,7 +2,7 @@
 layout: episode
 epnum: "003"
 former: 2-mil-pogchamp.html
-latter:
+latter: verbal-fencing.html
 title: "Future Food"
 date: 2017-09-19
 excerpt: "Joel and Micah discuss the future in the form of 3D printed food, Mad Max, and the singularity (with special sauce)"
