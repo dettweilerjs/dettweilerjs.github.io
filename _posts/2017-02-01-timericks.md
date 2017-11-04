@@ -14,11 +14,11 @@ My favorite podcast, [Hello Internet](http://www.hellointernet.fm/), recently ho
 
 Here it is in it’s entirety (it’s #17 on the list):
 
-There once was a fellow named Tim  
-Who downloaded H.I. on a whim.  
-As he sat on his flight,  
-He received quite a fright:  
-Plane crash corner was mentioning him!  
+> There once was a fellow named Tim  
+> Who downloaded H.I. on a whim.  
+> As he sat on his flight,  
+> He received quite a fright:  
+> Plane crash corner was mentioning him!  
 
 I suppose a brief explanation is in order (Hello Internet in-joke spoilers incoming). In an episode long ago, one of the hosts was talking about an interest of his in plane crashes, why they happen, and the stories around them. He joked that he would start a “plane crash corner” on the show to talk about them every week. The other one joked that there was probably someone on a plane who would be horrified to listen to that. The hosts then spoke directly to this hypothetical person, naming them “Tim.”
 
@@ -30,8 +30,8 @@ Limericks are great.
 
 Oh, you’re still wondering about the equation? It was devised by [Leigh Mercer](https://en.wikipedia.org/wiki/Leigh_Mercer), and reads like this:
 
-A dozen, a gross, and a score  
-Plus three times the square root of four  
-Divided by seven  
-Plus five times eleven  
-Is nine squared and not a bit more.  
+> A dozen, a gross, and a score  
+> Plus three times the square root of four  
+> Divided by seven  
+> Plus five times eleven  
+> Is nine squared and not a bit more.  
