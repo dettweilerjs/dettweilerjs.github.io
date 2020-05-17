@@ -9,10 +9,10 @@ tags: [free verse, sonnet]
 Speak friend and enter, but beware:  
 This zoo is not logical. Nothing  
 Is on display for your amusement.  
-(for indeed, Nothing is amusing)  
+(for indeed, Nothing is very amusing)  
   
 Here there be dragons to discover,  
-Joy and other mythical creatures,  
+Joy and other mythical creatures  
 Truly dangerous. You might not survive.  
   
 If you flounder in seas of symbols  
