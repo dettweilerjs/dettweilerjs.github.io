@@ -7,7 +7,7 @@ title: About Me
 
 <img style="float: right; margin-left: 1rem" src="/public/images/face.png"/>
 
-### Joel Dettweiler
+### Joel Wilder
 
 * [200 Word RPG finalist](https://200wordrpg.github.io/2017/rpg/finalist/2017/04/19/TROLLS.html)
 * Bicyclist
