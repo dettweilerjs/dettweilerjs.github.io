@@ -23,4 +23,4 @@ Find me online:
 * [LinkedIn](https://www.linkedin.com/in/joel-dettweiler-29816094/)
 * [Tumblr](https://dettonator11.tumblr.com)  
 
-Get in touch: [dettonator11@gmail.com](mailto:dettonator11@gmail.com)
+Get in touch: [jswilder93@gmail.com](mailto:jswilder93@gmail.com)
