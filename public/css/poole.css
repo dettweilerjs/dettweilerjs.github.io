@@ -147,6 +147,15 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+#buttonlabel {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: normal;
+  font-family: Arial;
+  color: #000000;
+}
+
 /* Code */
 code,
 pre {
