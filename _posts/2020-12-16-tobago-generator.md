@@ -303,14 +303,19 @@ tags: [board games, games]
 			drawVolcano(volCenter);
 		}
 
+		var statues = placeObjects(innerBoard, 3);
+		for (var i = 0; i < statues.length; i++)
+		{
+			wholeBoard.splice(wholeBoard.indexOf(statues[i]), 1);
+		}
+		drawStatues(statues);
+
 		var huts = placeObjects(wholeBoard, 4);
 		drawHuts(huts);
 		
 		var trees = placeObjects(wholeBoard, 3);
 		drawTrees(trees);
 
-		var statues = placeObjects(innerBoard, 3);
-		drawStatues(statues);
 	}
 	
 	function drawLabel(name, x, y)
@@ -380,8 +385,8 @@ tags: [board games, games]
 				}
 			}
 				
-			if (!finished)
-				console.log("Object placement failed.");
+			//if (!finished)
+			//	console.log("Object placement failed.");
 		}
 		
 		/* remove selected hexes from board */
