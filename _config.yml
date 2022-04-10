@@ -12,6 +12,7 @@ url: http://www.codedna.me
 baseurl: /
 future: false
 lang: en-US
+timezone: America/New_York
 
 author:
   name: Joel Wilder
